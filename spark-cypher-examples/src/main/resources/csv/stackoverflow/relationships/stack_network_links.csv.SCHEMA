@@ -1,0 +1,25 @@
+{
+  "idField": {
+     "name": "id",
+     "column": 0,
+     "valueType": "LONG"
+  },
+  "startIdField": {
+     "name": "source",
+     "column": 1,
+     "valueType": "STRING"
+  },
+  "endIdField":  {
+     "name": "target",
+     "column": 2,
+     "valueType": "STRING"
+  },
+  "relationshipType": "BOUGHT",
+  "propertyFields": [
+    {
+      "name": "value",
+      "column": 3,
+      "valueType": "LONG"
+    }
+  ]
+}

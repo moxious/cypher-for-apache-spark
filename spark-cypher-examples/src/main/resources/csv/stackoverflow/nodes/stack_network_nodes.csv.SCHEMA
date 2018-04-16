@@ -1,0 +1,20 @@
+{
+  "idField": {
+    "name": "name",
+    "column": 0,
+    "valueType": "STRING"
+  },
+  "implicitLabels": ["Tag"],
+  "propertyFields": [
+    {
+      "name": "group",
+      "column": 1,
+      "valueType": "LONG"
+    },
+    {
+      "name": "nodesize",
+      "column": 2,
+      "valueType": "LONG"
+    }
+  ]
+}
